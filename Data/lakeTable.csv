@@ -1,0 +1,70 @@
+lakeName,subLakeName,lakeID,WBIC,area_ha,maxDepth_m,meanDepth_m,lat,long,publicLanding,publicBeach,publicPark,fishPresent,lakeType
+Allequash,NA,AQ,2332400,164.43,7.32,3.05,46.0369394,-89.6288435,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",DRAINAGE
+Arrowhead,NA,AR,1541500,38.88,13.115,NA,45.9063386,-89.6902355,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",SPRING
+Birch,NA,BH,2311100,204.93,13.725,NA,46.2176675,-89.8383824,Yes,No,No,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",DRAINAGE
+Black Oak,NA,BK,1630100,228.42,25.925,10.37,46.163005,-89.3161216,Yes,No,No,"Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Trout and Walleye",SEEPAGE
+Boot,NA,BOT,1619100,115.83,4.575,2.745,45.968621,-89.3258653,Yes,No,No,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Brandy,NA,BY,1541300,45.765,13.42,NA,45.9068142,-89.7008403,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Camp,NA,CA,1839100,15.39,5.49,NA,45.9979203,-89.7332605,No,No,Yes,Panfish and Largemouth Bass,SEEPAGE
+Deerskin,NA,DS,1601300,121.905,5.49,1.83,45.9756059,-89.1691079,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",SPRING
+Day,NA,DY,1843500,44.55,17.385,NA,46.0620542,-89.7045276,Yes,No,Yes,Panfish and Smallmouth Bass,SEEPAGE
+Erickson,NA,ER,983600,44.55,5.49,NA,45.9473851,-89.6225404,Yes,No,Yes,"Panfish, Largemouth Bass and Walleye",DRAINAGE
+Found,NA,FD,1593800,136.08,6.405,3.355,45.9505119,-89.4531966,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Hunter,NA,HT,991700,70.875,12.2,5.185,46.003537,-89.3220986,Yes,No,No,"Panfish, Largemouth Bass, Smallmouth Bass and Walleye",SEEPAGE
+Indian,NA,ID,2764400,32.4,11.895,NA,46.1183431,-89.4072909,Yes,No,No,"Musky, Panfish, Largemouth Bass and Smallmouth Bass",SEEPAGE
+Irving,NA,IV,2340900,169.695,2.44,NA,46.0613163,-89.4736738,Yes,No,Yes,"Musky, Panfish, Largemouth Bass and Walleye",DRAINAGE
+Johnson,NA,JS,1541100,34.425,12.81,NA,45.8997418,-89.7206242,Yes,No,No,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Little Crooked,NA,LC,2335500,62.37,9.15,NA,46.1508532,-89.6951094,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Lone Tree,NA,LE,1000400,52.65,4.88,NA,46.0470972,-89.5035381,Yes,No,Yes,"Panfish, Largemouth Bass and Smallmouth Bass",SEEPAGE
+Lake of the Hills,NA,LH,1620500,24.705,3.05,NA,45.9839078,-89.2447399,Yes,No,No,"Panfish, Largemouth Bass and Northern Pike",DRAINAGE
+Adelaide,NA,LL,1831700,23.085,21.045,NA,46.2474156,-89.8996716,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",DRAINAGE
+Little Spider,NA,LR,1540400,90.315,7.015,3.965,45.9711465,-89.7084172,No,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye",SEEPAGE
+Lost,NA,LT,1593400,218.295,6.1,NA,45.9655406,-89.4831158,Yes,No,No,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Little Arbor Vitae,NA,LV,1545300,194.4,9.76,3.355,45.9122467,-89.6226075,Yes,No,Yes,"Musky, Panfish, Largemouth Bass and Walleye",DRAINAGE
+Muskellunge,NA,MS,1596600,109.35,5.795,2.745,45.9518021,-89.3798865,Yes,No,No,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Nichols,NA,NH,1870400,14.985,4.88,NA,46.1035271,-89.6879285,Yes,Yes,Yes,Panfish and Largemouth Bass,SEEPAGE
+Oxbow,NA,OB,2954800,211.815,13.42,4.575,46.2438989,-89.6791928,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",DRAINAGE
+Pickerel,NA,PK,1619700,109.35,7.93,3.66,45.9744514,-89.3949491,Yes,No,No,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Pioneer,NA,PN,1623400,173.745,8.235,3.66,46.0168835,-89.2060586,No,No,No,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Partridge,NA,PT,2341500,95.175,5.795,2.745,46.0798756,-89.5057078,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye",SPRING
+Spectacle,NA,SA,717400,67.23,10.675,3.66,46.0005878,-89.0207512,Yes,No,Yes,"Panfish, Largemouth Bass, Smallmouth Bass, Trout and Walleye",SEEPAGE
+Street,NA,SE,1884200,18.63,6.71,3.965,46.0959876,-89.7035371,Yes,No,Yes,Panfish and Largemouth Bass,SEEPAGE
+Stormy,NA,SM,1020300,211.815,19.215,10.065,46.0552793,-89.3217657,Yes,No,Yes,"Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Trout",SEEPAGE
+Silver,NA,SV,1599800,23.085,5.795,2.44,45.9214451,-89.2377926,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",SEEPAGE
+Towanda,NA,TO,1022900,56.295,8.235,3.05,45.9385442,-89.7077093,Yes,No,No,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",SEEPAGE
+Upper Gresham,NA,UG,2330800,146.61,9.76,3.965,46.0678261,-89.7370588,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+White Birch,NA,WB,2340500,45.765,8.235,NA,46.06343,-89.5228689,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye",DRAINAGE
+Wildcat,NA,WC,2336800,118.665,11.59,3.66,46.1729139,-89.6169457,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye",DRAINAGE
+Whitney,NA,WN,2338100,91.53,2.44,NA,46.118195,-89.73475,Yes,No,Yes,"Panfish, Largemouth Bass and Northern Pike",SPRING
+Wabasso,NA,WS,2045000,21.06,13.725,NA,45.9748566,-90.002212,Yes,No,Yes,"Panfish, Largemouth Bass and Northern Pike",SEEPAGE
+Big St Germain,NA,BS,1591100,656.91,12.81,6.405,45.9342965,-89.5197864,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Trout and Walleye",DRAINAGE
+Big Arbor Vitae,NA,BV,1545600,433.35,12.505,5.49,45.9302665,-89.6497434,Yes,No,Yes,"Musky, Panfish, Largemouth Bass and Walleye",DRAINAGE
+North Twin,NA,NT,1623800,1162.755,18.3,8.54,46.05333,-89.13137,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye",DRAINAGE
+Little John,NA,LJ,2332300,61.155,5.795,NA,46.0145325,-89.6452656,Yes,No,Yes,"Musky, Largemouth Bass, Smallmouth Bass, Northern Pike, Trout and Walleye",SPRING
+Eagle,NA,EA,1600200,232.875,10.37,4.88,45.9322207,-89.2081904,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",DRAINAGE
+Boulder,NA,BO,2338300,208.98,7.015,3.66,46.1247282,-89.66135,Yes,No,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",DRAINAGE
+Ballard,NA,BL,2340700,203.715,7.625,NA,46.0608187,-89.4984978,Yes,No,Yes,NA,DRAINAGE
+Big Muskellunge,NA,BM,1835300,363.285,21.35,7.93,46.0173745,-89.6148908,Yes,Yes,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",SEEPAGE
+Little St Germain,NA,LG,1596300,393.66,16.165,3.355,45.9032785,-89.4551115,Yes,No,No,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",DRAINAGE
+South Twin,NA,ST,1623700,254.34,13.115,6.1,46.0312638,-89.1708418,Yes,No,No,"Musky, Panfish, Largemouth Bass, Smallmouth Bass and Walleye",DRAINAGE
+Horsehead,NA,HH,2953100,101.25,7.32,3.965,46.2332871,-89.7153674,Yes,No,No,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike and Walleye",DRAINAGE
+Upper Mud,NA,UM,804000,88.29,2.44,1.22,43.0383675,-89.316501,No,No,Yes,"Musky, Panfish, Largemouth Bass, Northern Pike, Walleye and Catfish",DRAINAGE
+Fish,NA,FI,985100,80.595,18.91,NA,43.2875384,-89.6522131,Yes,No,Yes,"Panfish, Largemouth Bass and Northern Pike",SEEPAGE
+Waubesa,NA,WA,803700,839.97,11.59,4.88,43.0114843,-89.3232987,Yes,Yes,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye and Catfish",DRAINAGE
+Sweet and Rice,Sweet,SW,780400,4.86,1.22,NA,42.8877088,-89.0348626,No,No,No,NA,DRAINAGE
+Sweet and Rice,Rice,SW,779500,47.385,2.44,NA,42.8983179,-89.0329202,No,No,No,Panfish,DRAINAGE
+Wingra,NA,WI,805000,136.08,4.27,NA,43.0535033,-89.4194465,Yes,Yes,Yes,"Musky, Panfish, Largemouth Bass, Northern Pike and Walleye",DRAINAGE
+Mendota,NA,MD,805400,3961.305,25.315,12.81,43.105,-89.41994,Yes,Yes,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye, Sturgeon and Catfish",DRAINAGE
+Monona,NA,ML,804600,1360.395,22.57,8.235,43.0683177,-89.3581385,Yes,Yes,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye, Sturgeon and Catfish",DRAINAGE
+Kegonsa,NA,KE,802600,1296,9.76,5.185,42.9645909,-89.2536477,Yes,Yes,Yes,"Musky, Panfish, Largemouth Bass, Smallmouth Bass, Northern Pike, Walleye and Catfish",DRAINAGE
+Yahara River,Cherokee,YA,806500,78.165,6.1,2.745,43.157356,-89.379944,No,No,No,NA,NA
+Milwaukee River,Estabrook,EBP,15000,10144.98,NA,NA,43.0997015,-87.9077753,No,No,Yes,"Chinook Salmon, Coho Salmon, Brown Trout, Bullhead, Carp, Steelhead, Northern Pike, Smallmouth Bass, Walleye, Catfish, Panfish, Round Goby",NA
+Milwaukee River,Caesars,CEP,15000,10144.98,NA,NA,43.0577642,-87.8955211,No,No,Yes,"Chinook Salmon, Coho Salmon, Brown Trout, Bullhead, Carp, Steelhead, Northern Pike, Smallmouth Bass, Walleye, Catfish, Panfish, Round Goby",NA
+Milwaukee River,Riverside,RSP,15000,10144.98,NA,NA,43.0676745,-87.8946975,Yes,No,Yes,"Chinook Salmon, Coho Salmon, Brown Trout, Bullhead, Carp, Steelhead, Northern Pike, Smallmouth Bass, Walleye, Catfish, Panfish, Round Goby",NA
+Milwaukee River,Hubbard,HUBP,15000,10144.98,NA,NA,43.0840005,-87.8923922,Yes,No,Yes,"Chinook Salmon, Coho Salmon, Brown Trout, Bullhead, Carp, Steelhead, Northern Pike, Smallmouth Bass, Walleye, Catfish, Panfish, Round Goby",NA
+Milwaukee River,Kern,KP,15000,10144.98,NA,NA,43.0835429,-87.8928862,No,No,Yes,"Chinook Salmon, Coho Salmon, Brown Trout, Bullhead, Carp, Steelhead, Northern Pike, Smallmouth Bass, Walleye, Catfish, Panfish, Round Goby",NA
+Milwaukee River,Kletzsch,KLP,15000,10144.98,NA,NA,43.13507,-87.9285,Yes,No,Yes,"Chinook Salmon, Coho Salmon, Brown Trout, Bullhead, Carp, Steelhead, Northern Pike, Smallmouth Bass, Walleye, Catfish, Panfish, Round Goby",NA
+Lake Michigan,Cupertino,CUP,20,67611.64,282,85,42.9982561,-87.8848266,Yes,No,Yes,"Chinook Salmon, Coho Salmon, Steelhead, Lake Trout, Brown Trout, Bullhead, Carp, Catfish, Largemouth Bass, Northern Pike, Lake Sturgeon, Panfish, Round Goby",DRAINAGE
+Lake Michigan,Lakeshore,LSSP,20,67611.64,282,85,43.0321525,-87.895392,No,No,Yes,"Chinook Salmon, Coho Salmon, Steelhead, Lake Trout, Brown Trout, Bullhead, Carp, Catfish, Largemouth Bass, Northern Pike, Lake Sturgeon, Panfish, Round Goby",DRAINAGE
+Lake Michigan,McKinley,MM,20,67611.64,282,85,43.0513215,-87.882095,Yes,Yes,Yes,"Chinook Salmon, Coho Salmon, Steelhead, Lake Trout, Brown Trout, Bullhead, Carp, Catfish, Largemouth Bass, Northern Pike, Lake Sturgeon, Panfish, Round Goby",DRAINAGE
+Lake Michigan,South Shore,SSMP,20,67611.64,282,85,42.9959147,-87.8820437,Yes,Yes,Yes,"Chinook Salmon, Coho Salmon, Steelhead, Lake Trout, Brown Trout, Bullhead, Carp, Catfish, Largemouth Bass, Northern Pike, Lake Sturgeon, Panfish, Round Goby",DRAINAGE
