@@ -24,8 +24,7 @@ creel <- read.csv("cleanedcreeltable.csv") %>%
     
     valid_trip = !is.na(trip_hours_fishing) &
       trip_hours_fishing >= 0 &
-      trip_hours_fishing <= 24
-  )
+      trip_hours_fishing <= 24)
 
 urban <- creel %>%
   dplyr::filter(
@@ -34,12 +33,11 @@ urban <- creel %>%
   ) %>%
   dplyr::mutate(
     Region = factor(Region, levels = c("Great Lakes", "Inland")),
-    FishingMode = factor(FishingMode, levels = c("Boat", "Shore"))
-  )
+    FishingMode = factor(FishingMode, levels = c("Boat", "Shore")))
 
-# ----------------------------
-# 2) TRIP LENGTH: model + plot
-# ----------------------------
+
+#TRIP LENGTH: model + plot
+-
 trip_mod <- lm(trip_hours_fishing ~ Region * FishingMode,
                data = urban %>% dplyr::filter(valid_trip))
 
@@ -71,8 +69,7 @@ mean_trips <- urban %>%
   dplyr::summarise(mean_hours = mean(trip_hours_fishing, na.rm = TRUE), .groups = "drop") %>%
   dplyr::mutate(
     mean_label = sprintf("%02d:%02d", floor(mean_hours), round((mean_hours %% 1) * 60)),
-    trip_bin = factor("0–1 hr", levels = paste0(0:10, "–", 1:11, " hr")) # anchor label at first bin
-  )
+    trip_bin = factor("0–1 hr", levels = paste0(0:10, "–", 1:11, " hr")) # anchor label at first bin)
 
 trip_fig <- ggplot(trip_plot_df, aes(trip_bin, prop, fill = FishingMode)) +
   geom_col() +
@@ -93,9 +90,9 @@ trip_fig <- ggplot(trip_plot_df, aes(trip_bin, prop, fill = FishingMode)) +
   ) +
   theme_minimal(base_size = 14) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
-# ----------------------------
-# ASSUMPTION CHECKS: Trip length model only
-# ----------------------------
+
+# ASSUMPTION CHECKS: Trip length
+
 
 # Fit the model (adjust variable names if yours differ)
 trip_mod <- lm(trip_hours_fishing ~ Region * FishingMode, data = urban)
