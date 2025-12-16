@@ -293,9 +293,6 @@ ggsave("urban_ud_gray_ellipse97_wide_with_population.png",
 ##RUNNING ASSUMPTIONS 
 pdf("Distance_AssumptionChecks.pdf", width = 11, height = 8.5)
 par(mfrow = c(2,2))
-plot(dist_mod)
-shapiro.test(residuals(dist_mod))  # note sensitivity in text
-dev.off()
 
 ##IF WE WANT A GRAPH JUST SHOWING BARE BONES DIFFERENCES
 ggplot(urban, aes(x = distance_km, fill = FishingMode)) +

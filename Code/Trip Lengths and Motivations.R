@@ -93,25 +93,28 @@ trip_fig <- ggplot(trip_plot_df, aes(trip_bin, prop, fill = FishingMode)) +
 
 # ASSUMPTION CHECKS: Trip length
 
+trip_mod <- lm(
+  trip_hours_fishing ~ Region * FishingMode,
+  data = urban %>% dplyr::filter(valid_trip)
+)
 
-# Fit the model (adjust variable names if yours differ)
-trip_mod <- lm(trip_hours_fishing ~ Region * FishingMode, data = urban)
+trip_results <- broom::tidy(trip_mod, conf.int = TRUE)
 
-# 1) Diagnostic plots (Residuals vs Fitted, QQ, Scale-Location, Leverage)
+
 pdf("TripLength_AssumptionChecks.pdf", width = 11, height = 8.5)
 par(mfrow = c(2, 2))
 plot(trip_mod)
-mtext("Trip Length Model Diagnostics: trip_hours_fishing ~ Region * FishingMode",
-      outer = TRUE, line = -1, cex = 1.1)
+mtext(
+  "Trip Length Model Diagnostics: trip_hours_fishing ~ Region * FishingMode",
+  outer = TRUE, line = -1, cex = 1.1
+)
 dev.off()
 
-# 2) Normality test on residuals (note: very sensitive with large n)
 shapiro.test(residuals(trip_mod))
-#Shapiro-Wilk normality test data:  residuals(trip_mod) W = 0.90799, p-value < 2.2e-16
 
-# 3) Homoscedasticity (Breusch-Pagan test)
 if (!requireNamespace("lmtest", quietly = TRUE)) install.packages("lmtest")
 lmtest::bptest(trip_mod)
+
 # Breusch-Pagan test data:  trip_mod BP = 17.673, df = 3, p-value = 0.0005137
 
 # 4) Influential points (Cook's distance)
